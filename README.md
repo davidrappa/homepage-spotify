@@ -2,6 +2,12 @@
 
 https://davidrappa.github.io/homepage-spotify/
 
- Homepage do Spotify feito em Boostrap atraves de um curso da Udemy
+ Olá, tudo bom? Recriei a página de inicio do Spotify com a finalidade de práticar alguns conhecimentos.
+ 
+@Boostrap
 
-HTML5 / CSS3 - Boostrap 3
+ - col- button, responsive CSS.
+ 
+@Media queries
+
+ - Todo o site é responsivo para smartphones, tablets e desktops.
